@@ -5,3 +5,4 @@ Adicionei linha 4 via git web
 Adicionei linha 5 via git web
 Adicionei novo texto em branch UsTeste
 Adicionado linha 7 - branch master 
+Adicionei linha 7 - branch2
